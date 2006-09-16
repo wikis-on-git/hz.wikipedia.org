@@ -1,5 +1,4 @@
 
-
 <div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Herero_language|Herero]] language.'''</big><br /><br />
 <big>''If you speak Herero, go ahead and start working on the encyclopedia!''</big><br /><br />
@@ -19,6 +18,13 @@ Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
 <big>''Si usted habla Herero, modifique el texto y comience a trabajar en la enciclopedia.''</big><br /><br />
 Para mayor información, visite la [[:es:|Wikipedia en español]].
 </div>
+{| width="60%" style="border:1px solid black"
+|
+<inputbox>
+type=create
+width=45
+</inputbox>
+|}
 
 
 <div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;" dir="rtl">
