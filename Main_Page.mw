@@ -4,40 +4,13 @@
 For more information, see the [[:en:|English Wikipedia]].
 </div>
 
-
-<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
-<big>'''Ce lieu est reservé pour la création d'un Wikipédia en langue [[:en:Herero_language|Herero]].'''</big><br /><br />
-<big>''Si vous parlez Herero, modifiez le texte et commencez à écrire dans l'encyclopédie !''</big><br /><br />
-Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
-</div>
-
-
-<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
-<big>'''Este subdominio está reservado para la creación de una Wikipedia en lengua [[:en:Herero_language|Herero]].'''</big><br /><br />
-<big>''Si usted habla Herero, modifique el texto y comience a trabajar en la enciclopedia.''</big><br /><br />
-Para mayor información, visite la [[:es:|Wikipedia en español]].
-</div>
-{| width="60%" style="border:1px solid black"
+{| width="60%" style="border:5px green"
 |
-<inputbox>
+<center><inputbox>
 type=create
 width=45
-</inputbox>
+</inputbox></center>
 |}
-
-
-<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;" dir="rtl">
-<big>'''هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" بالكانورية..'''</big><br /><br />
-<big>إذا يعجب الفكرة، فاكتبها! إضغط عبلى edit وترجم هذا النص إلى الكانورية أو ابدأ أن تكتب مقالات.</big><br /><br />
-[[:ar:|لمعلومات أحرى ومساعدة بالعربية إضغط هنا.]]
-</div>
-
-
-<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
-<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:en:Herero_language|Herero]] Sprache reserviert.'''</big><br /><br />
-<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br /><br />
-Weitere Informationen befinden sich auf der [[:de:|Deutsche Wikipedia]].
-</div>
 
 
 Number of articles: '''{{NUMBEROFARTICLES}}'''
