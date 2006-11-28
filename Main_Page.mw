@@ -3,16 +3,16 @@
 <big>''If you speak Herero, go ahead and start working on the encyclopedia!''</big><br /><br />
 For more information, see the [[:en:|English Wikipedia]].
 </div>
-
+<center>
 {| width="60%" style="border:5px solid green"
 |
-<center><inputbox>
+<inputbox>
 type=create
 width=45
-</inputbox></center>
+</inputbox>
 |}
 
-
+</center>
 Number of articles: '''{{NUMBEROFARTICLES}}'''
 
 '''[http://www.wikipedia.org/ www.wikipedia.org]'''
