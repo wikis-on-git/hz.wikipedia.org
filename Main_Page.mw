@@ -14,7 +14,7 @@ width=45
 
 </center>
 <center>
-<font color="blue" face="Old English Text MT">Number of articles:</font> '''{{NUMBEROFARTICLES}}'''
+<font color="blue" face="Old English Text MT" size="3">Number of articles:</font> '''{{NUMBEROFARTICLES}}'''
 </center>
 '''[http://www.wikipedia.org/ www.wikipedia.org]'''
 </center>
