@@ -1,30 +1,27 @@
-<div style="width:96%;margin-top:+.7em;border:5px solid #142312;background-color:#f5faff;padding:.7em;text-align:center;">
-<font color="BLUE" face="verdana" size="5"><b><i>Sanibonani! Ukhuluma isiNgisi na? <br><br> 
-</font>
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
+<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Herero_language|Herero]] language.'''</big><br /><br />
+<big>''If you speak Herero, go ahead and start working on the encyclopedia!''</big><br /><br />
+For more information, see the [[:en:|English Wikipedia]].
+</div>
 
-
-<div style="width:96%;margin-top:+.7em;border:5px solid #142312;background-color:#f5faff;padding:.7em;text-align:center;">
-<font color="Green" face="verdana" size="5"><i><b>Orupa rombapira indwi rua isirwa komaongurisiro wo "Wikipedia" meraka rOtjiherero Tjiuhungira eraka ndi, nu momunu kokutja marire nawa okutwamo omambo woye mo Internet indji, tjata nao. <br><br> 
-</font>
-
-
-<center>
 {| width="60%" style="border:5px solid green"
 |
-<inputbox>
+<center><inputbox>
 type=create
 width=45
-</inputbox>
+</inputbox></center>
 |}
 
-</center>
-<center>
-<font color="blue" face="Old English Text MT" size="6">Number of articles:</font><br></center><center> '''{{NUMBEROFARTICLES}}'''
+
+Number of articles: '''{{NUMBEROFARTICLES}}'''
+
+'''[http://www.wikipedia.org/ www.wikipedia.org]'''
 </center>
 
 *[[Ombeibela]]
 *[[Jesus Kristus]]
 *[[Oparadisa]]
+*[[Adam naEva]]
 
 <!-- interwikis to African-language Wikipedias and relevant large Wikipedias -->
 [[aa:]] [[af:]] [[ak:]] [[am:]] [[ar:]] [[bm:]] [[ny:]] [[de:]] [[en:]] [[eo:]] [[ee:]] [[fr:]] [[ff:]] [[ki:]] [[ha:]] [[ig:]] [[kr:]] [[kg:]] [[kj:]] [[ln:]] [[lg:]] [[mg:]] [[om:]] [[ng:]] [[pt:]] [[rn:]] [[rw:]] [[sg:]] [[sn:]] [[so:]] [[sw:]] [[st:]] [[ss:]] [[ti:]] [[ve:]] [[ts:]] [[tn:]] [[tum:]] [[tw:]] [[wo:]] [[yo:]] [[xh:]] [[zu:]]
